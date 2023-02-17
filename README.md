@@ -1,3 +1,3 @@
 # Hardhat Study 0
 
-## SimpleStorage for TestNet with Hardhat
+## SimpleStorage Project with Hardhat for TestNet
